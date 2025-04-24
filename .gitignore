@@ -4,3 +4,10 @@ out
 .idea
 .DS_Store
 *.log*
+
+# =======================
+ffmpeg
+untrack
+.vscode
+# =======================
+
